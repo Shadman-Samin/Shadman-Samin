@@ -54,9 +54,6 @@
   <!-- Line 5: bottom border -->
   <text x="24" y="170" font-family="monospace" font-size="15" fill="#58a6ff">└─────────────────────────────────────────────────────────────────┘</text>
 
-  <!-- Bottom subtitle -->
-  <text x="450" y="198" font-family="monospace" font-size="11" fill="#484f58" text-anchor="middle">"Turning ideas into reality, one commit at a time."</text>
-
   <!-- Bottom line -->
   <line x1="0" y1="205" x2="900" y2="205" stroke="#30363d" stroke-width="0.5"/>
 </svg>
